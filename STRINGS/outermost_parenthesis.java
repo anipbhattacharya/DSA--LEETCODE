@@ -12,7 +12,7 @@ public class outermost_parenthesis{
                     result.append(c);
                 }
                 level++;
-            } else { // c == ')'
+            } else { 
                 level--;
                 if (level > 0) {
                     result.append(c);
