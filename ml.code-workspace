@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../java_dsa_arrays"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "java_dsa_arrays"
+	}
+}
